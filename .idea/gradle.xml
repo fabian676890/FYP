@@ -9,7 +9,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/com.aware.plugin.google.activity_recognition" />
             <option value="$PROJECT_DIR$/com.aware.plugin.google.activity_recognition.lib" />
           </set>
         </option>

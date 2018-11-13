@@ -65,7 +65,6 @@ class ActivitiesAdapter extends ArrayAdapter<DetectedActivity> {
             temporaryList.add(new
                     DetectedActivity(ActivityIntentService.POSSIBLE_ACTIVITIES[i],
                     confidence));
-//            map.put('')
         }
 //Remove all elements from the temporaryList//
         this.clear();

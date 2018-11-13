@@ -1,1 +1,1 @@
-include ':app', ':com.aware.plugin.google.activity_recognition.lib', ':com.aware.plugin.google.activity_recognition'
+include ':app', ':com.aware.plugin.google.activity_recognition.lib'
